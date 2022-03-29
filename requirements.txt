@@ -21,7 +21,7 @@ Fabric3==1.14.post1
 gunicorn
 html5lib==1.0.1
 idna==2.8
-paramiko==2.4.2
+paramiko==2.10.1
 Pillow==5.4.1
 puput==1.0.3
 pyasn1==0.4.5
